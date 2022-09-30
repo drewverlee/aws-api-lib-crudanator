@@ -1,0 +1,2 @@
+{:deps {foo {:mvn/version "0.1"}
+        com.cognitect.aws/endpoints {:mvn/version "1.1.12.305"}}}
